@@ -1,0 +1,34 @@
+.nothing {
+    color: red;
+    font-size: 32px;
+}
+
+a {
+    font-size: 32px;
+    color: chocolate;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.out{
+    font-size: 26px;
+    color: green;
+}
+
+label{
+    line-height: 50px;
+vertical-align: middle;
+    font-size: 22px;
+}
+
+input{
+    font-size: 22px;
+margin-left: 10px;
+}
+
+#butt{
+    width: 200px;
+    height: 60px;
+    font-size: 40px;
+    margin: 10px;
+}
