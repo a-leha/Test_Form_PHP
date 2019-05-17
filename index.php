@@ -24,6 +24,9 @@
             <input type="password" name="pass" placeholder="Your password">
         </label> <br>
 
+        <label>Password
+            <input type="password" name="pass_confirm" placeholder="Confirm password">
+        </label> <br>
 
         <input id="butt" type="submit" value="Enjoy!">
 
